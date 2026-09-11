@@ -31,10 +31,5 @@ The report is structured into insights across multiple analytical dimensions:
 ---
 
 ##  Dashboard Preview
-*(Explore the uploaded PDF report in this repository for a complete visual walkthrough of all dashboard pages).*
+*(Explore the uploaded R_K_Restaurant _Dashboards PDF in this repository for a complete visual walkthrough of all dashboard pages).*
 
----
-
-## How to View This Project
-1. **Download the PDF Report** (`R_K_Restaurant_Dashboards.pdf`) from this repository for an instant static preview.
-2. **Download the `.pbix` file** to open and interact with the data model directly via Power BI Desktop.
